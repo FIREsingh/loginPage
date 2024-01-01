@@ -1,0 +1,3 @@
+1). Learned How to Route the pages.
+2). Save Sign Up data.
+3). You Should not be able to access pages inside the pages which comes after login.
